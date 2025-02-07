@@ -1,0 +1,30 @@
+/* You can add global styles to this file, and also import other style files */
+/* flower-animation.component.css */
+body {
+  background: #131b21;
+  padding: 0 !important;
+  margin:  0 !important;
+}
+
+.container {
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #131b21;
+  height: 100vh;
+}
+
+svg#flower-frame {
+  height: 70vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+
+}
+
+
+body {
+  cursor: url('/valentine/assets/heart-cursor.png') 16 16, auto;
+}
